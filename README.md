@@ -16,3 +16,4 @@ HOME
 
 <img width="1440" alt="Screenshot 2022-06-21 at 2 32 29 PM" src="https://user-images.githubusercontent.com/87064957/174762932-572c9d13-e20b-4d51-b74f-a295a57ec03c.png">
 
+<img width="1440" alt="Screenshot 2022-06-21 at 2 33 07 PM" src="https://user-images.githubusercontent.com/87064957/174763073-bea47d6d-ead2-4719-904a-2551858b1285.png">
