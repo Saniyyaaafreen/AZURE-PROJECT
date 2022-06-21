@@ -26,7 +26,7 @@ SHOP NOW
 
 <img width="1440" alt="Screenshot 2022-06-21 at 2 46 36 PM" src="https://user-images.githubusercontent.com/87064957/174764374-d6d4163d-828e-4e15-8957-60fedc04eee5.png">
 
-
+<img width="1440" alt="Screenshot 2022-06-21 at 2 46 46 PM" src="https://user-images.githubusercontent.com/87064957/174764540-847e18ae-8f58-49f4-979b-a6d654078804.png">
 
 CONTACT
 
