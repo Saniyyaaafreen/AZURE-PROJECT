@@ -18,8 +18,12 @@ ABOUT
 
 <img width="1440" alt="Screenshot 2022-06-21 at 2 42 41 PM" src="https://user-images.githubusercontent.com/87064957/174763664-c094873d-7c75-425a-b911-a97c13e82da4.png">
 
+<img width="1440" alt="Screenshot 2022-06-21 at 2 43 01 PM" src="https://user-images.githubusercontent.com/87064957/174763876-c998f8ae-8bc4-4c7f-928f-dba81b04be46.png">
 
+SHOP NOW
 
 <img width="1440" alt="Screenshot 2022-06-21 at 2 32 29 PM" src="https://user-images.githubusercontent.com/87064957/174762932-572c9d13-e20b-4d51-b74f-a295a57ec03c.png">
+
+CONTACT
 
 <img width="1440" alt="Screenshot 2022-06-21 at 2 33 07 PM" src="https://user-images.githubusercontent.com/87064957/174763073-bea47d6d-ead2-4719-904a-2551858b1285.png">
